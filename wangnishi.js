@@ -76,6 +76,7 @@ const wangnishi = ((Nums) => {
 	2: "(19-19)+(-1*2+4)",
 	1: "(19-19)-1-2+4",
 	0: "(19-19)*124",
+	"⑨": "(19-19)+1+2-4",
 })
 
 if (typeof module === 'object' && module.exports)
